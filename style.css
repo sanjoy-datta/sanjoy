@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.table{
+    height: 300px;
+    width: 300px;
+    background: orange;
+}
+img {
+    width: 300px;
+    height: auto;
+    float: left;
+    margin-right: 15px;
+}
+
+ul{
+    list-style: none;
+}
+ul li{ 
+    float: left;
+}
+ul li a {
+    padding: 10px 30px;
+    display: inline-block;
+    background: tomato;
+    color: #fff;
+    border: 1px solid #ddd;
+}
+.room{
+    width: 600px;
+    margin: auto;
+    border: 1px solid red;
+    height: 400px;
+}
+.sofa{
+    width: 30%;
+    background: rgb(43, 240, 43);
+    height: 100px;
+  
+}
+.chere{
+    width: 32%;
+    background: rgb(248, 9, 9);
+    height: 100px;
+    border: 1px solid blue;
+    float: left;
+}
+
+.table1{
+    width: 300px;
+    height: 150px;
+    background: rgb(243, 132, 52);
+    float: left;
+}
+.chere1{
+    width: 400px ;
+    height: 400px;
+    background: rgb(236, 186, 59);
+    float: right;
+}
+.slider{
+    height: 100px;
+    width: 100%;
+    background: red;
+}
